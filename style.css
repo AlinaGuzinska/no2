@@ -1,0 +1,68 @@
+:root{--brand-color:#2196F3;}
+
+header {color: #212121;
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+line-height: 1;
+}
+.logo{font-family: Ralewey;
+font-weight: 700;
+font-size: 26px;
+line-height: 1.91;}
+.contact{font-size: 400;
+color:#757575;
+}
+.contact:hover{color:var(--brand-color)}
+
+main{font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.36;
+     }
+.button {cursor: pointer;}
+.bw1 {font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    color: white;
+    background: var(--brand-color);
+    line-height: 1.88;
+}
+.body{
+color: white;
+background: #2F303A;
+}
+.title{
+font-weight: 900;
+font-size:44px;
+line-height: 1.36;}
+.lorem{
+    font-size: 14px;
+    font-weight: 700;
+    color: #212121;
+    line-height: 1;
+ }
+ h2{font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 2.63;
+    color: #212121;
+}
+ .name{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.19;
+    color: #212121;
+    }
+.bw2{font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+background: #F5F4FA;
+color: black;
+line-height: 1.62;
+}
+footer{background: #2F303A;
+color: #F5F4FA;
+line-height: 1.71;
+font-size:400;}
+footer:hover{color:var(--brand-color);}
